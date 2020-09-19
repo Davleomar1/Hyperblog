@@ -1,0 +1,5 @@
+Bienvenidos a git y git hub
+
+Primero traiga los archivos del origin haga un comit antes de esto
+
+Recuerde git remote add origin https://github.com/Davleomar1/Hyperblog.git
