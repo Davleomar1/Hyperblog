@@ -1,4 +1,4 @@
-#Hyperblog
+<h1>Hyperblog</h1>
 
 Un blog increíble para el ucrso de Git y Github
 
